@@ -1,0 +1,15 @@
+html {
+    font-family: 'Manrope', sans-serif;
+}
+
+header {
+    display: flex;
+}
+
+.logo {
+    display: flex;
+}
+
+.nightmode-switcher {
+    display: flex;
+}

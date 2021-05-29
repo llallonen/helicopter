@@ -1,0 +1,10 @@
+:root {
+    --background: #012345;
+    --background-focused: #012345;
+    --contrast-element-color: #011C37;
+    --title-color: #FCFCFC;
+    --button-text: #FCFCFC;
+    --text-color: #99A7B5;
+    --highlight-pink: #F61D9F;
+    --highlight-blue: #4959FF;
+}
